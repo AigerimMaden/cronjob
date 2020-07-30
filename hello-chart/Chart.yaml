@@ -1,0 +1,7 @@
+apiVersion: v1
+name: busybox
+description: Chart for cronjob
+
+type: application
+
+version: 1.0.0
